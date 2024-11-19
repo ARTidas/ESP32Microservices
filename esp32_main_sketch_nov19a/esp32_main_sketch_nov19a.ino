@@ -4,8 +4,6 @@
 #include <vector>  // To store discovered devices
 
 // Replace with your network credentials
-//const char* ssid = "FeldlercheBurg";
-//const char* password = "ThisIsMyPassword";
 const char* ssid = "PTI";
 const char* password = "bolcseszmernok1";
 
